@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:white;
+    background-color:rgb(0,0,0);
+}
+h2{
+    text-align: start;
+    text-decoration: overline;
+    text-decoration-color: blue;
+    color:#ff22ff;
+   
+}
+p{
+    text-align: justify;
+    font-weight: bolder;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+
+

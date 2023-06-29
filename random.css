@@ -1,0 +1,15 @@
+h1{
+    background-color: yellowgreen;
+  
+}
+p{
+    background-color: blueviolet;
+    text-align: left;
+}
+span{
+
+    background-color: violet;
+    margin: 20px;
+    padding: 5px;
+    display: inline-block;
+}
